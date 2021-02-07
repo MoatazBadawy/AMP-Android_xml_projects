@@ -1,1 +1,1 @@
-# AMP-Android_xml_projects
+# Android_xml_projects
