@@ -1,5 +1,4 @@
-# Android xml projects
-<h1 align="center"> Valorant Agents </h1>
+<h1 align="center"> Android xml projects </h1>
 
 <p align="center">
   <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
@@ -80,7 +79,7 @@ Valorant-api provides an extensive API containing data of most in-game items, as
 
 # License
 ```xml
-Designed and developed by 2020 AhmedVargos
+Designed and developed by 2020 Moataz
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
